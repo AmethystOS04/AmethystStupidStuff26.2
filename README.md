@@ -39,6 +39,9 @@ adds random startup messages because minecraft logs weren't confusing enough
 - the razor of the void
 - corrupted blade
 - the void's edge
+- lightning bomb
+- razor of smol
+- razor of hell
 - /song
 - /song badapple
 - /song bliss
