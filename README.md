@@ -42,6 +42,7 @@ adds random startup messages because minecraft logs weren't confusing enough
 - lightning bomb
 - razor of smol
 - razor of hell
+- the end crystal's beam
 - /song
 - /song badapple
 - /song bliss
