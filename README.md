@@ -36,7 +36,7 @@ adds random startup messages because minecraft logs weren't confusing enough
 - log grenade
 - wind wand reimagined
 - the end's end
-- the razor of the void
+- the razor of the end
 - corrupted blade
 - the void's edge
 - lightning bomb
