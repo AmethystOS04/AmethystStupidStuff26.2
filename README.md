@@ -4,9 +4,9 @@
 
 [discord](https://discord.gg/qyZHCDbvXW)
 
-current version: **2.1.4 B4**
+current version: **2.2.0 Batch 1**
 
-current mc versions supported: **1.21.11** and **26.2**
+current mc versions supported: **1.21.11,** **26.2,** and **26.3**
 
 thxs to **@Spagles** for fixing the crashes for those dedicated server people :33
 
@@ -34,6 +34,10 @@ adds random startup messages because minecraft logs weren't confusing enough
 - multishot multiplies the amount of tnt shot
 - may ruin friendships depending on how much a tnt stick is used against them
 - log grenade
+- mini amethyst shard
+- ass apple
+- amethyst spear
+- enchantable items/weapons
 - wind wand reimagined
 - the end's end
 - the razor of the end
