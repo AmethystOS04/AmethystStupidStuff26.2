@@ -1,10 +1,72 @@
 # amethyst's stupid stuff
+<img width="339" height="24" alt="amethyst’s stupid stuff" src="https://github.com/user-attachments/assets/5456192d-a538-4230-8ce2-366434890472" />
+
 
 [discord](https://discord.gg/qyZHCDbvXW)
 
-current version: **2.1.3**
+current version: **2.2.0 Batch 1**
 
-current version for textures branch: **2.2 and 2.1.4**
+current mc versions supported: **1.21.11,** **26.2,** and **26.3**
+
+thxs to **@Spagles** for fixing the crashes for those dedicated server people :33
+
+if you want read the [wiki](https://github.com/AmethystOS04/Amethyststupidstuff/wiki) if you want to
+
+check out the [github](https://github.com/AmethystOS04/Amethyststupidstuff) if your on a download page for the mod
+
+adds random startup messages because minecraft logs weren't confusing enough
+
+## features
+
+- can carpet bomb another player's build
+- random startup messages
+- 1% chance of a beyblade incident
+- emergency spinblade deployment
+- advanced cheese detection
+- advanced cheese loss
+- the cheese has escaped
+- nobody knows how
+- please do not approach the cheese
+- please don't even look for the cheese
+- fireball launcher
+- tnt stick
+- log stick
+- multishot multiplies the amount of tnt shot
+- may ruin friendships depending on how much a tnt stick is used against them
+- log grenade
+- mini amethyst shard
+- ass apple
+- amethyst spear
+- enchantable items/weapons
+- wind wand reimagined
+- the end's end
+- the razor of the end
+- corrupted blade
+- the void's edge
+- lightning bomb
+- razor of smol
+- razor of hell
+- the end crystal's beam
+- /song
+- /song badapple
+- /song bliss
+- /song deep_below_the_code
+- /song everlasting_fun
+- /song quiet_please
+- /song enderman_rap
+- /song the_only_thing_they_fear_is_you
+## faq
+
+### why do updates take so long
+
+because i have school to do and dont have access to the project code to work on between classes
+plus
+i havent gotten my school laptop yet
+so yea
+
+### what does this mod do
+
+yes
 
 current mc versions supported: **1.21.11** and **26.2**
 
@@ -15,4 +77,22 @@ current mc versions supported: **1.21.11** and **26.2**
 - or if you wanna see what i have planned stay and see the art and consepts
 - im always opened to new feature suggestions too
 - so if you want something open a issue and suggest it
+
+skill issue
+shouldnt have installed it on a server
+
+## Other Projects
+
+### Inventory UI
+- Inventory UI (Inv UI) is a html based project made just for fun and gets updates every so often
+- click [here](https://github.com/AmethystOS04/Inventory-UI-V3) to take a look at the only place the source exists online
+- the wiki for will be made once i get some more content in
+
+### Aurora Borealis GUI
+- **Aurora Borealis GUI** (ABGUI) is a texture pack i made with mcglint
+- it is staying at 1.0 unless more gui stuff comes out
+- click [here](https://modrinth.com/resourcepack/aurora-borealis-gui) for the pack
+
+## end
+<img width="81" height="99" alt="separate_amethyst" src="https://github.com/user-attachments/assets/14e9b2c2-5d18-49c9-923b-c27b9ab34ce9" />
 
