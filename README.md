@@ -68,15 +68,27 @@ so yea
 
 yes
 
-current mc versions supported: **1.21.11** and **26.2**
+### why
 
-## where is the rest of the desc?
+the cheese made me do it
 
-- i deleted it because you somehow ended up in the textures branch
-- for the main stuff go to the main branch
-- or if you wanna see what i have planned stay and see the art and consepts
-- im always opened to new feature suggestions too
-- so if you want something open a issue and suggest it
+### is the cheese dangerous
+
+we dont know
+
+### what if i want a feature backported to 1.21.11 if its on 26.2
+
+backport it yourself or open a issue and ask for it
+
+### why does /song badapple start weird?
+
+i dont know either dont ask me
+
+### the song command doesnt work
+
+*emotional damage*
+
+### my friend blew up my house with the tnt stick
 
 skill issue
 shouldnt have installed it on a server
